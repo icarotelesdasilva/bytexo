@@ -22,9 +22,11 @@ For now, these are the only two steps—though I plan to optimize this process f
 
 For now, the project is in a beta phase, as I mentioned above, but it has the potential to evolve significantly in the future; I intend to turn it into a hexadecimal editor.
 
-## Note: I am open to help on this and other projects whether it’s addressing issues or any other form of assistance, please don’t hesitate to contribute. Before doing so, however, please read the code of conduct I have set out.
+ Note: I am open to help on this and other projects whether it’s addressing issues or any other form of assistance, please don’t hesitate to contribute. Before doing so, however, please read the code of conduct I have set out.
 
-warning: This version is still in the beta phase; there may be some bugs, but nothing major for now.
+Warning: This version is still in the beta phase; there may be some bugs, but nothing major for now.
+
+
 
 # LICENSE
 

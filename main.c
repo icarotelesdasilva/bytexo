@@ -1,3 +1,7 @@
+
+// Copyright 2026 @icarotelesdasilva
+
+
 #include <stdio.h>
 #include <string.h>
 
