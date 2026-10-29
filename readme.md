@@ -1,22 +1,38 @@
-## exodecimal proofreader
+## bytexo
 
  version: 0.0.01 beta
 
-In its beta version (0.0.01), this project aims to provide visibility into the contents of binary or hexadecimal files. It is currently in a beta phase and will undergo continuous development, potentially evolving into a full-fledged hexadecimal editor by its final stage, 
-Stay here with me and watch the transformation unfold before your eyes :).
+In its beta version (0.0.01), this project aims to provide visibility into the contents of binary or hexadecimal files. It is currently in a beta phase and will undergo continuous development, potentially evolving into a full-fledged hexadecimal editor by its final stage.
 
-For now, its functionality allows for reading from binary, returning the result in real-time to your terminal, with a fixed limit of 4096 characters.
-
+For now in this version the tool can read a limited 4096 characters which means 4096 bytes, a limited reading for now that will be solved in the next versions.
 
 
 How to use:
 
 1: Compile:
 
-```gcc main.c -o main```
+```make bytexo```
+
+
+
+or clean:
+
+```make clean```
+
+
 
 2: Run the file you want to view:
-```./main test.bin```
+
+a) Enter the folder and run the program
+
+b) cd bytexo
+
+c) bytexo <file>
+
+
+One more note: if you want to see the requirements contained within the project of the tool what is needed in ```requirements.txt```.
+
+
 
 For now, these are the only two steps—though I plan to optimize this process for you.
 
@@ -24,7 +40,6 @@ For now, the project is in a beta phase, as I mentioned above, but it has the po
 
  Note: I am open to help on this and other projects whether it’s addressing issues or any other form of assistance, please don’t hesitate to contribute. Before doing so, however, please read the code of conduct I have set out.
 
-Warning: This version is still in the beta phase; there may be some bugs, but nothing major for now.
 
 
 

@@ -1,7 +1,7 @@
 If you are reading this code of conduct, thank you for helping me with this challenge! I will outline a few simple rules in this code of conduct that must be followed—they are very straightforward.
 
 
-1- The code should include a bug, or a clear suggestion/fix—ideally presented in a clean format to make it easy to see (optional).
+1- When reporting an issue, describe the bug clearly and include steps to reproduce it, if possible. When suggesting a fix, explain the proposed change.
 
 
 2- Direct insults, strong profanity, or attacks against anything or anyone are not permitted; this will not be tolerated.
@@ -15,6 +15,8 @@ If you are reading this code of conduct, thank you for helping me with this chal
 
 5- Once again—or perhaps not—use the issues in an organized way; avoid clutter or anything of the sort, and stay focused on the project.
 
+6- Be respectful and constructive in discussions. Criticize ideas or code, not people, and explain disagreements clearly.
+
 
 
 For now, these are the rules of conduct I’ve created; I would be honored if you could offer any suggestions or corrections—any help from you would be greatly appreciated!
@@ -23,4 +25,4 @@ For now, these are the rules of conduct I’ve created; I would be honored if yo
 
 Thanks.
 
-latest changes to the code of conduct: 2026-10-26.
+latest changes to the code of conduct: 2026-10-29.
