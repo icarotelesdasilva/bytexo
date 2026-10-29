@@ -12,10 +12,13 @@ int processer(FILE *file) {
 
 while((read = fread(buffer, 1, sizeof(buffer), file)) > 0) {
 
-}
+
+
+
 	for(size_t i = 0; i < read; i++) {
 		printf("%02X", (unsigned char)buffer[i]);
 
+}
 }
 
 
