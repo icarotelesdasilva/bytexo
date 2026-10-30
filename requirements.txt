@@ -1,29 +1,90 @@
 requirements
 
 
+
 The minimum requirements are presented below in detail.
 
 
-The minimum requirements are simple compilation tools For now, it will be explained in detail what each one does;
+The minimum requirements are simple compilation tools For now, it will 
+
+be explained in detail what each one does;
 
 
-NOTE: It is not mandatory to have a Linux or anything like that, but it is recommended because it already comes with most pre-installed WSL or Linux.
+
+NOTE: It is not mandatory to have a Linux or anything like that, but 
+
+it is recommended because it already comes with most pre-installed WSL 
+
+or Linux.
 
 
 
-Makefile: the makefile is a file (by default called a "Makefile") containing a set of directives used by the make build automation tool to generate a target/goal.
+
+
+Makefile: the makefile is a file (by default called a "Makefile") 
+
+containing a set of directives used by the make build automation tool to generate a target/goal.
 
 Overview:
 
-In software development, Make is a command-line interface tool that performs actions ordered by configured dependencies as defined in a configuration file called makefile. It is commonly used for build automation to create executable code (such as a program or library) from source code. Make is also not limited to compiling and can perform any operation available through the operating system shell.
+In software development, Make is a command-line interface tool that 
+
+
+
+performs actions ordered by configured dependencies as defined in a
+
+
+ configuration file called makefile. It is commonly used for build 
+
+ automation to create executable code (such as a program or library) 
+
+ from source code. Make is also not limited to compiling and can 
+
+ perform any operation available through the operating system shell.
 
 
 
 
-Gcc (GNU Compiler Collection): The GNU Compiler Collection (commonly referred to as GCC) is a set of programming language compilers produced by the GNU project to build a free Unix-like operating system.  It is part of the GNU and FSF operating systems, and is one of the essential tools for keeping software free, as it allows the source code to be compiled into executable binaries for the various most common computer platforms. It is distributed by the Free Software Foundation (FSF) under the terms of the GNU GPL license, available for UNIX and Linux.
+Gcc (GNU Compiler Collection): The GNU Compiler Collection (commonly 
+
+referred to as GCC) is a set of programming language compilers 
+produced by the GNU project to build a free Unix-like operating 
+
+
+system.  It is part of the GNU and FSF operating systems, and is one 
+
+of the essential tools for keeping software free, as it allows the 
+
+source code to be compiled into executable binaries for the various 
+
+most common computer platforms. It is distributed by the Free Software 
+
+Foundation (FSF) under the terms of the GNU GPL license, available for 
+
+UNIX and Linux.
 
 
 Overview:
 
-The GCC compiler was written by Richard Stallman in 1987 to serve as a compiler for the GNU Project. In 1997, a group of developers unhappy with the slow pace and closed nature of the official development of the GCC compiler formed the EGCS project, which merged several experimental forks into a single forked GCC project. The development of EGCS, proving to be far more vital than GCC, was finally "blessed" as the official version of GCC in April 1999. The GCC project is now maintained by a diverse group of programmers from around the world and to date has been adapted to more types of processors and operating systems than any other compiler.
+
+
+The GCC compiler was written by Richard Stallman in 1987 to serve as a 
+
+compiler for the GNU Project. In 1997, a group of developers unhappy 
+
+with the slow pace and closed nature of the official development of 
+
+the GCC compiler formed the EGCS project, which merged several 
+
+experimental forks into a single forked GCC project. The development 
+
+of EGCS, proving to be far more vital than GCC, was finally "blessed" 
+
+as the official version of GCC in April 1999. The GCC project is now 
+
+maintained by a diverse group of programmers from around the world and 
+
+to date has been adapted to more types of processors and operating 
+
+systems than any other compiler.
 
