@@ -25,9 +25,9 @@ or clean:
 
 a) Enter the folder and run the program
 
-b) cd bytexo
+b) ```cd bytexo```
 
-c) bytexo <file>
+c) ```bytexo <file>```
 
 
 One more note: if you want to see the requirements contained within the project of the tool what is needed in ```requirements.txt```.

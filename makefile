@@ -5,7 +5,7 @@ bytexo:
 	sudo cp bytexo/bytexo /usr/local/bin/
 
 clean:
-	rm -rf *.bin *.o bytexo/bytexo
+	rm -rf *.bin *.o bytexo/
 
 
 .PHONY: clean all bytexo
